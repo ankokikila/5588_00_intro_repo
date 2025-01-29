@@ -1,1 +1,6 @@
-# 5588_00_intro_repo
+# Demonstration of HTML, CSS, and Javascript
+
+## Example Sub heading 2
+
+**BOLD TEXT**
+learning
